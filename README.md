@@ -21,6 +21,13 @@ I build practical things and keep shipping.
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
 </p>
 
+<!-- Trophy -->
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=davasangkara&theme=dracula&no-frame=true&no-bg=true&row=1&margin-w=12" />
+  </a>
+</p>
+
 <!-- Stats row -->
 <p>
   <img height="158" src="https://github-readme-stats.vercel.app/api?username=davasangkara&show_icons=true&theme=radical&hide_border=true" />
