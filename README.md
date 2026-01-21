@@ -14,21 +14,21 @@
 ">
 
   <div style="font-size:20px; font-weight:600; color:#fff; line-height:1.4;">
-    👋 hi, i'm <span style="color:#22d3ee;">dava</span>
+    👋 hai, gue <span style="color:#22d3ee;">dava</span>
   </div>
 
   <div style="font-size:14px; font-weight:500; color:#cbd5e1; line-height:1.6; max-width:560px; margin:8px auto 0;">
-    full-stack engineer & product builder <br/>
-    backend heavy • dashboard enjoyer • deploys his own stuff.
+    full-stack engineer yang suka bikin produk <br/>
+    lebih sering main di backend • suka dashboard • deploy sendiri
   </div>
 
   <!-- typing banner -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1200&color=22D3EE&center=true&vCenter=true&width=480&lines=Node.js+%7C+Express+%7C+MySQL;Python+%7C+Flask+%7C+Leaflet;Kotlin+%7C+Compose+%7C+Android;Automation%2C+Dashboards%2C+Realtime+Tracking"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1200&color=22D3EE&center=true&vCenter=true&width=480&lines=Node.js+%7C+Express+%7C+MySQL;Python+%7C+Flask+%7C+Leaflet;Kotlin+%7C+Compose+%7C+Android;Automation%2C+Dashboards%2C+Real-time+Tracking"
     style="max-width:100%; margin-top:14px;"
   />
 
-  <!-- highlight points like a tagline -->
+  <!-- highlight points -->
   <div style="
     display:flex;
     flex-wrap:wrap;
@@ -39,10 +39,10 @@
     font-weight:500;
     line-height:1.4;
   ">
-    <div style="background:rgba(15,23,42,.6);border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:8px 12px;color:#e2e8f0;">⚡ builds internal tools for ops</div>
-    <div style="background:rgba(15,23,42,.6);border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:8px 12px;color:#e2e8f0;">📍 realtime location & proof flow</div>
-    <div style="background:rgba(15,23,42,.6);border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:8px 12px;color:#e2e8f0;">📊 admin dashboards w/ audit trail</div>
-    <div style="background:rgba(15,23,42,.6);border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:8px 12px;color:#e2e8f0;">🚀 ship fast, iterate in public</div>
+    <div style="background:rgba(15,23,42,.6);border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:8px 12px;color:#e2e8f0;">⚡ bikin tools internal buat operasional</div>
+    <div style="background:rgba(15,23,42,.6);border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:8px 12px;color:#e2e8f0;">📍 tracking lokasi + bukti foto real-time</div>
+    <div style="background:rgba(15,23,42,.6);border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:8px 12px;color:#e2e8f0;">📊 dashboard admin lengkap history</div>
+    <div style="background:rgba(15,23,42,.6);border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:8px 12px;color:#e2e8f0;">🚀 launch cepat, improve sambil jalan</div>
   </div>
 
   <div style="margin-top:20px;">
@@ -56,11 +56,11 @@
 
 <!-- PROJECTS / PRODUCTS -->
 <h2 align="center" style="color:#fff; font-size:18px; font-weight:600;">
-🚀 products i ship
+🚀 produk yang udah gue bikin
 </h2>
 
 <div align="center" style="font-size:13px; color:#94a3b8; font-weight:500; margin-top:-4px; margin-bottom:20px;">
-i make tools that remove manual work. real usage > slide deck.
+gue bikin tools yang ngurangin kerjaan manual. yang penting dipake beneran, bukan cuma buat presentasi.
 </div>
 
 <!-- PROJECT GRID -->
@@ -86,7 +86,7 @@ i make tools that remove manual work. real usage > slide deck.
       <span style="color:#8b5cf6;">●</span> DigitalConvert
     </div>
     <div style="font-size:12px; color:#94a3b8; font-weight:500; line-height:1.5; margin-top:6px;">
-      Admin panel untuk pulsa, paylater, voucher (F&B/Game). Kontrol rate, log transaksi, dashboard operasional.
+      Panel admin buat pulsa, paylater, voucher (makanan & game). Bisa atur harga, tracking transaksi, sama dashboard operasional.
     </div>
     <div style="font-size:11px; color:#22d3ee; font-weight:500; margin-top:10px;">
       Node.js · Express · EJS · Tailwind · MySQL
@@ -107,7 +107,7 @@ i make tools that remove manual work. real usage > slide deck.
       <span style="color:#22d3ee;">●</span> SaaSDirect
     </div>
     <div style="font-size:12px; color:#94a3b8; font-weight:500; line-height:1.5; margin-top:6px;">
-      Mini “billing + client panel” style SaaS. Tujuan: biar user bisa pakai tool kamu tanpa tanya-tanya admin manual.
+      Platform billing + client portal. User bisa langsung pake tools tanpa nanya admin terus-terusan.
     </div>
     <div style="font-size:11px; color:#22d3ee; font-weight:500; margin-top:10px;">
       REST API · Auth · Subscription Logic
@@ -128,7 +128,7 @@ i make tools that remove manual work. real usage > slide deck.
       <span style="color:#8b5cf6;">●</span> Genco
     </div>
     <div style="font-size:12px; color:#94a3b8; font-weight:500; line-height:1.5; margin-top:6px;">
-      Automasi pendaftaran / aksi repetitif yang biasa orang kerjain manual 1-1. Tujuan: hemat jam kerja.
+      Otomasi pendaftaran & kerjaan repetitif yang biasanya dikerjain manual satu-satu. Hemat waktu kerja banget.
     </div>
     <div style="font-size:11px; color:#22d3ee; font-weight:500; margin-top:10px;">
       Python tooling · session handling · anti-repeat flow
@@ -149,7 +149,7 @@ i make tools that remove manual work. real usage > slide deck.
       <span style="color:#34d399;">●</span> Geo Monitor
     </div>
     <div style="font-size:12px; color:#94a3b8; font-weight:500; line-height:1.5; margin-top:6px;">
-      Web panel live map + foto bukti. Device buka link ➜ ambil lokasi + foto ➜ admin lihat di dashboard.
+      Web panel dengan live map + foto bukti. Device tinggal buka link, langsung kirim lokasi + foto, admin bisa lihat di dashboard.
     </div>
     <div style="font-size:11px; color:#22d3ee; font-weight:500; margin-top:10px;">
       Python · Flask · Leaflet map · Tailwind · file-based storage
@@ -170,10 +170,10 @@ i make tools that remove manual work. real usage > slide deck.
       <span style="color:#facc15;">●</span> Synca
     </div>
     <div style="font-size:12px; color:#94a3b8; font-weight:500; line-height:1.5; margin-top:6px;">
-      Mobile app konsep: aksesibilitas komunikasi (suara ↔ isyarat), premium toggle, payment gate (GoPay / OVO).
+      Aplikasi mobile buat komunikasi aksesibilitas (suara ke bahasa isyarat), ada fitur premium dengan payment gateway (GoPay / OVO).
     </div>
     <div style="font-size:11px; color:#22d3ee; font-weight:500; margin-top:10px;">
-      Flutter · SQLite · Realtime UI · Paywall flow
+      Flutter · SQLite · Real-time UI · Paywall flow
     </div>
   </div>
 
@@ -191,7 +191,7 @@ i make tools that remove manual work. real usage > slide deck.
       <span style="color:#f472b6;">●</span> Victoria Busana Ops
     </div>
     <div style="font-size:12px; color:#94a3b8; font-weight:500; line-height:1.5; margin-top:6px;">
-      Sistem kasir / stok / membership diskon butik pakaian. Fokus: uang masuk/keluar rapi, gampang audit.
+      Sistem kasir, stok, dan membership diskon untuk butik pakaian. Uang masuk-keluar tercatat rapi dan gampang di-audit.
     </div>
     <div style="font-size:11px; color:#22d3ee; font-weight:500; margin-top:10px;">
       Python / Excel automation · simple dashboard
@@ -212,7 +212,7 @@ i make tools that remove manual work. real usage > slide deck.
       <span style="color:#6366f1;">●</span> Sign Language Assist
     </div>
     <div style="font-size:12px; color:#94a3b8; font-weight:500; line-height:1.5; margin-top:6px;">
-      Kamera baca gesture tangan ✋✌️👍 dan langsung jadi suara cewek TTS. Dibuat buat bantu komunikasi nonverbal.
+      Kamera baca gesture tangan ✋✌️👍 terus langsung diubah jadi suara lewat TTS. Dibuat buat bantu komunikasi nonverbal.
     </div>
     <div style="font-size:11px; color:#22d3ee; font-weight:500; margin-top:10px;">
       Python · OpenCV · MediaPipe · pyttsx3
@@ -227,7 +227,7 @@ i make tools that remove manual work. real usage > slide deck.
 
 <!-- SKILLSTACK / TOOLBOX -->
 <h2 align="center" style="color:#fff; font-size:18px; font-weight:600;">
-🧰 stack & tools
+🧰 tech stack yang gue pake
 </h2>
 
 <div align="center" style="
@@ -240,13 +240,12 @@ i make tools that remove manual work. real usage > slide deck.
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Inter', Roboto, 'Segoe UI', sans-serif;
 ">
 
-  <!-- each card is bigger, not tiny icon -->
   <div style="min-width:150px; background:#0f172a; border:1px solid rgba(139,92,246,.4); border-radius:14px; padding:12px 14px; text-align:left;">
     <div style="font-size:13px; font-weight:600; color:#fff; line-height:1.4;">Backend / API</div>
     <div style="font-size:12px; color:#94a3b8; line-height:1.5; margin-top:4px;">
       Node.js · Express  
       Python · Flask  
-      Auth / Session / Rate
+      Auth / Session / Rate Limiting
     </div>
   </div>
 
@@ -264,7 +263,7 @@ i make tools that remove manual work. real usage > slide deck.
     <div style="font-size:12px; color:#94a3b8; line-height:1.5; margin-top:4px;">
       MySQL  
       file-based logging  
-      CSV / exportable proof
+      CSV / export laporan
     </div>
   </div>
 
@@ -294,7 +293,7 @@ i make tools that remove manual work. real usage > slide deck.
 
 <!-- STATS -->
 <h2 align="center" style="color:#fff; font-size:18px; font-weight:600;">
-📈 activity & stats
+📈 aktivitas & statistik
 </h2>
 
 <div align="center" style="margin-top:10px;">
@@ -333,11 +332,11 @@ i make tools that remove manual work. real usage > slide deck.
 
 <!-- CONTACT -->
 <h2 align="center" style="color:#fff; font-size:18px; font-weight:600;">
-🤝 connect
+🤝 kontak
 </h2>
 
 <p align="center" style="font-size:12px; color:#94a3b8; font-weight:500; margin-top:-4px;">
-open to collab on tools that save people time.
+terbuka buat kolaborasi bikin tools yang bikin hidup orang lebih gampang.
 </p>
 
 <p align="center">
