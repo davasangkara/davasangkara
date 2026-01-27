@@ -12,6 +12,13 @@
   </a>
 </div>
 
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddavasangkara%26show_icons%3Dtrue%26theme%3Dradical%26rank_icon%3Dgithub" alt="Dava's GitHub stats" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasangkara&layout=compact&theme=radical" alt="Top Langs" />
+
+
 ## 🚀 About Me
 
 I'm a passionate developer focused on building scalable web and mobile applications. Currently, I'm deep-diving into the **Laravel ecosystem**, **Cross-platform mobile apps**, and exploring the possibilities of **Web3**.
